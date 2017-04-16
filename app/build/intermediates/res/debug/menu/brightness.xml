@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+        
+<item  
+        android:id="@+id/one"  
+        android:title="Low"/>  
+
+    <item  
+        android:id="@+id/two"  
+        android:title="Dim"/>  
+
+    <item  
+        android:id="@+id/three"  
+        android:title="Bright"/>  
+    
+
+</menu>
+<!-- From: file:/Users/sandeeptengli/NFC%20App/app/src/main/res/menu/brightness.xml -->
